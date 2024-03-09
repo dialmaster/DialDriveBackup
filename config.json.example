@@ -1,0 +1,26 @@
+{
+  "_comment_1": "Use the provided helper utility to get your drive serial numbers.",
+  "_comment_2": "They should be formatted similar to this: 1EBAC2E0. This is JUST AN EXAMPLE.",
+  "drivesToBackup": [
+    {
+      "name": "12TB Media Drive",
+      "primarySerial": "1EBAC2E0",
+      "backupSerial": "1EBAC2E0",
+      "directories": [
+        "Movies",
+        "Movies2",
+        "Movies3"
+      ]
+    },
+    {
+      "name": "14TB Media Drive",
+      "primarySerial": "1EBAC2E0",
+      "backupSerial": "1EBAC2E0",
+      "directories": [
+        "TV Shows",
+        "Stupid Videos",
+        "Documents"
+      ]
+    }
+  ]
+}

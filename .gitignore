@@ -1,0 +1,7 @@
+# Don't accidentally commit your actual config
+config.json
+
+# Ignore various test files
+*.old
+*.real
+*.test
