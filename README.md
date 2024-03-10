@@ -44,7 +44,7 @@ The main purpose of this backup utility is to simplify and automate the process 
 ## Configuration setup
 The backup configuration is stored in a file named config.json. 
 
-his file contains an array of "drives to backup", where each item represents a pair of primary and backup drives along with their respective directories to backup. 
+This file contains an array of "drives to backup", where each item represents a pair of primary and backup drives along with their respective directories to backup. 
 
 See config.json.example for an example config, copy it to config.json and fill in your details before you run the backup scripts.
 
